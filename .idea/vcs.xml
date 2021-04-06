@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AuthPerFunBasedAPIView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Authentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BrowsableAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CRUDapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClassBasedAPIView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ConcreteViewClass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoronaVirus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JWT" vcs="Git" />
+  </component>
+</project>
